@@ -64,7 +64,7 @@ To get started with the Student Attendance App, follow these steps:
 
 ## App Demo
 
-![Record](https://github.com/user-attachments/assets/69317a80-24b3-4b38-9266-def4cf3bbd3e)
+![RecordGif1](https://github.com/user-attachments/assets/2dfafced-29c6-49a0-90e7-aff6fefd9752)
 
 
 ## Contributing
