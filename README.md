@@ -21,7 +21,7 @@ To get started with the Student Attendance App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/student-attendance-app.git
+   git clone https://github.com/3MR7OSSAM/Attendify.git
    cd student-attendance-app
    ```
 
