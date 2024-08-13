@@ -62,11 +62,10 @@ To get started with the Student Attendance App, follow these steps:
   - Firestore: To store and retrieve attendance and exam data.
   - Firebase Authentication: For user authentication and management.
 
-## Screenshots
+## App Demo
 
-![Screenshot 1](screenshots/screenshot1.png)  
-![Screenshot 2](screenshots/screenshot2.png)  
-![Screenshot 3](screenshots/screenshot3.png)
+![Record](https://github.com/user-attachments/assets/69317a80-24b3-4b38-9266-def4cf3bbd3e)
+
 
 ## Contributing
 
@@ -85,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [your.email@example.com](Amr90.vip@gmail.com).
+If you have any questions or feedback, please feel free to contact me at [Amr90.vip@gmail.com](Amr90.vip@gmail.com).
 
 ---
 
